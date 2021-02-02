@@ -7,8 +7,6 @@
 body {
     height: 100vh;
     font-family: 'Raleway', sans-serif;
-    display: grid;
-    grid-template-rows: auto 1fr auto;
 }
 
 header {
